@@ -26,7 +26,6 @@
 + Sleep / Wake / Shutdown / Reboot 
 + Keyboard
 + iMessage, FaceTime, App Store, iTunes Store
-+ DRM support
 # What's not working ⚠️
 + Fingerprint Reader
 + Sidecar Wireless
